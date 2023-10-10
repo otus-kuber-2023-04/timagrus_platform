@@ -335,5 +335,4 @@ kubectl run frontend --image austinsky/hipster-frontend:v0.0.1 --restart=Never -
 
 Исправления - добавлены эти переменные в запуск пода
 
-### 11.5 Создан новый манифест frontend-pod-healthy.yaml. При его применении ошибка должна исчезает.
-![Running](frontend-running.png)
+
